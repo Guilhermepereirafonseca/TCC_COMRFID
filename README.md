@@ -1,2 +1,3 @@
-# TCC_COMRFID
-Projeto final - Etec
+# COMRFID
+
+> Leia o COMRFID.md
